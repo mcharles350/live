@@ -1,0 +1,1 @@
+{"Modules":[{"Source":"git::git@github.com:mcharles350/modules.git//services/webserver-cluster?ref=v0.0.1","Key":"1.webserver_cluster;git::git@github.com:mcharles350/modules.git//services/webserver-cluster?ref=v0.0.1","Version":"","Dir":".terraform/modules/9def677166592a5607246275d175ba9c","Root":"services/webserver-cluster"}]}
